@@ -9,8 +9,7 @@ numpy
 matplotlib
 scikit-learn
 
-#--------------------------------
-Exercise 01 - Normal Distribution
+# 01. Normal Distribution
 
 Description:
 The first file, entitled "Normal Distribution" contains the functions necessary to assist in the development of calculating values in the ZScore and determining the percentage of these values on a Gaussian curve.
